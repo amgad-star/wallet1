@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="110" fill="#0B1220"/>
+  
+  <circle cx="256" cy="240" r="160" fill="#2BB673" fill-opacity="0.15"/>
+  
+  <path d="M236 100H276M216 130H296C307.046 130 316 138.954 316 150V180C316 191.046 307.046 200 296 200H216C204.954 200 196 191.046 196 180V150C196 138.954 204.954 130 216 130Z" stroke="#F4D35E" stroke-width="12" stroke-linecap="round"/>
+
+  <text x="50%" y="65%" text-anchor="middle" fill="#2BB673" style="font-family: 'Tajawal', sans-serif; font-weight: 900; font-size: 140px;">أمجد</text>
+  
+  <path d="M160 380C200 360 312 360 352 380" stroke="#F4D35E" stroke-width="15" stroke-linecap="round"/>
+
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@900&amp;display=swap');
+    </style>
+  </defs>
+</svg>
